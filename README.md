@@ -1,0 +1,2 @@
+# travelling
+for learning django
